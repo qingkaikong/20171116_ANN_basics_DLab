@@ -1,4 +1,5 @@
-[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/qingkaikong/20170413_ann_basics_dlab)
+[![Binder](https://beta.mybinder.org/badge.svg)](https://beta.mybinder.org/v2/gh/qingkaikong/20171116_ANN_basics_DLab/master)
+
 
 This folder will contain the basics of Artificial Neural Network that I will teach at [Berkeley D-Lab](http://dlab.berkeley.edu/) on Nov. 16th 2017.   
 
